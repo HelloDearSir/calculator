@@ -1,0 +1,36 @@
+form
+{
+    border: 2px solid #efefef;
+    background-color: #ffffff;
+    margin: 0 auto !important;
+    width:max-content !important;
+    
+}
+
+#results 
+{
+    margin: 18px !important;
+}
+
+ 
+ 
+ 
+select 
+{
+    margin:10px !important;
+}
+
+body{
+    margin:10px !important;
+}
+
+input
+{
+    margin:10px !important;
+ 
+}
+
+button 
+{
+    margin-bottom:10px !important;
+}
